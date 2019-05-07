@@ -1,0 +1,29 @@
+{
+  "name": "safarioapps",
+  "version": "1.0.0",
+  "description": "safario",
+  "main": "server.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "mysql": "^2.17.1",
+    "nunjucks": "^3.2.0",
+    "var_dump": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudafauzanm/safarioapps.git"
+  },
+  "author": "yayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudafauzanm/safarioapps/issues"
+  },
+  "homepage": "https://github.com/hudafauzanm/safarioapps#readme"
+}
